@@ -1,0 +1,2 @@
+!wget --no-check-certificate https://storage.googleapis.com/platzi-tf2/databasesLoadData.zip \
+    -O /tmp/databasesLoadData.zip

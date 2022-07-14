@@ -1,0 +1,6 @@
+pandas
+seaborn
+PIL
+numpy
+scipy
+codecs
